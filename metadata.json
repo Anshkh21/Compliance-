@@ -1,0 +1,6 @@
+{
+  "name": "Ad Compliance Auditor",
+  "description": "An automated compliance auditing platform for landing pages, websites, and ad creatives to ensure smooth approvals on Meta and other ad networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
